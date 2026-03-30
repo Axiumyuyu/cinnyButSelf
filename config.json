@@ -1,6 +1,6 @@
 {
   "defaultHomeserver": 1,
-  "homeserverList": ["converser.eu", "matrix.org", "mozilla.org", "unredacted.org", "xmr.se"],
+  "homeserverList": ["matrix.org", "bc.axiumyu.xyz", "mozilla.org", "funami.tech", "unredacted.org", "matrixrooms.info"],
   "allowCustomHomeservers": true,
 
   "featuredCommunities": {
